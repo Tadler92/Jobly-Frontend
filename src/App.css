@@ -1,0 +1,24 @@
+#root {
+  /* max-width: 1280px; */
+  max-width: 100%;
+  margin: 0 auto;
+  /* padding: 2rem 0 0 2rem; */
+  text-align: center;
+  /* background-color: magenta; */
+}
+
+.App {
+  width: 100vw;
+  max-width: 100%;
+  padding: 2rem 0 0 2rem;
+  display: flex;
+  /* background-color: yellow; */
+  justify-content: center;
+}
+
+.App-div {
+  width: 500px;
+  justify-content: center;
+  align-items: center;
+  /* background-color: maroon; */
+}
