@@ -1,0 +1,8 @@
+.SignupForm {
+  margin-top: 100px;
+}
+
+.SignupForm-label {
+  /* display: block; */
+  font-weight: bold;
+}
