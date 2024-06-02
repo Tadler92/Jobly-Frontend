@@ -1,0 +1,12 @@
+.CompanyCard {
+  margin-bottom: 20px;
+  text-decoration: none;
+}
+
+/* .CompanyCard {
+  text-decoration: none;
+} */
+
+.CompanyCard:hover {
+  color: #0d6efd
+}
